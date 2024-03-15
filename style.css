@@ -188,7 +188,7 @@ ul li ul.dropdown {
     background-color: #0d6efd;
 }
 
-@media(max-width:768px) {
+@media(max-width:1080px) {
 
     .child_1 {
         display: none;
